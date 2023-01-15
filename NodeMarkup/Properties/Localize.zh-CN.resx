@@ -1268,7 +1268,7 @@
     <value>按类别，再按名称</value>
   </data>
   <data name="Settings_SortApplyDefaultFirst" xml:space="preserve">
-    <value>默认模版总是显示在列表顶上</value>
+    <value>在应用列表顶部显示默认面板</value>
   </data>
   <data name="Settings_SortApplyType" xml:space="preserve">
     <value>将应用列表中的模版排序</value>
