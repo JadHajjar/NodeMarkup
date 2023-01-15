@@ -1392,7 +1392,7 @@
     <value>如果目标能匹配源，粘贴的标记将会自动应用</value>
   </data>
   <data name="StyleOption_ObjectProbability" xml:space="preserve">
-    <value>可见性</value>
+    <value>出现概率</value>
   </data>
   <data name="StyleOption_ObjectRange" xml:space="preserve">
     <value>范围</value>
