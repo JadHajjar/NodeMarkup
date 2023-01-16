@@ -1642,8 +1642,12 @@
   <data name="PresetEditor_PresetFit_Linked" xml:space="preserve">
     <value>연결됨</value>
   </data>
-  
-  
+  <data name="Tool_InfoDragPointMode" xml:space="preserve">
+    <value>점을 드래그해 오프셋 변경</value>
+  </data>
+  <data name="Setting_HoldToMovePoint" xml:space="preserve">
+    <value>{0} 키를 누른 채로 점을 옮기세요</value>
+  </data>
   
   
   
